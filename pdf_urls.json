@@ -1,0 +1,19 @@
+{
+    "projects":
+    [
+        {"name": "C00", "url": "https://cdn.intra.42.fr/pdf/pdf/136036/en.subject.pdf"},
+        {"name": "C01", "url": "https://cdn.intra.42.fr/pdf/pdf/130488/en.subject.pdf"},
+        {"name": "C02", "url": "https://cdn.intra.42.fr/pdf/pdf/136793/en.subject.pdf"},
+        {"name": "C03", "url": "https://cdn.intra.42.fr/pdf/pdf/130508/en.subject.pdf"},
+        {"name": "C04", "url": "https://cdn.intra.42.fr/pdf/pdf/130518/en.subject.pdf"},
+        {"name": "C05", "url": "https://cdn.intra.42.fr/pdf/pdf/130872/en.subject.pdf"},
+        {"name": "C06", "url": "https://cdn.intra.42.fr/pdf/pdf/130528/en.subject.pdf"},
+        {"name": "C07", "url": "https://cdn.intra.42.fr/pdf/pdf/130538/en.subject.pdf"},
+        {"name": "C08", "url": "https://cdn.intra.42.fr/pdf/pdf/130548/en.subject.pdf"},
+        {"name": "C09", "url": "https://cdn.intra.42.fr/pdf/pdf/130882/en.subject.pdf"},
+        {"name": "C10", "url": "https://cdn.intra.42.fr/pdf/pdf/135086/en.subject.pdf"},
+        {"name": "C11", "url": "https://cdn.intra.42.fr/pdf/pdf/130557/en.subject.pdf"},
+        {"name": "C12", "url": "https://cdn.intra.42.fr/pdf/pdf/130566/en.subject.pdf"},
+        {"name": "C13", "url": "https://cdn.intra.42.fr/pdf/pdf/130575/en.subject.pdf"}
+    ]
+}
